@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10µf,C_1206_3216Metric,125.5,-45.5,90.0,bottom
+C2,10µf,C_1206_3216Metric,129.1,-32.0,0.0,bottom
+D1,1N5819WS 1A 40V,D_SOD-323,128.0,-45.5,90.0,bottom
+J1,Conn_01x06_Socket,PinSocket_1x06_P1.27mm_Vertical_SMD_Pin1Right,124.0,-34.73,0.0,bottom
+J2,Conn_01x06_Socket,PinSocket_1x06_P1.27mm_Vertical_SMD_Pin1Right,166.0,-34.73,0.0,bottom
+Q1,AON7524,TRANS_AON7403,132.5,-46.75,90.0,bottom
+Q2,AON7524,TRANS_AON7403,139.0,-48.75,90.0,bottom
+Q3,AON7524,TRANS_AON7403,156.0,-46.75,90.0,bottom
+Q4,AON7524,TRANS_AON7403,162.3,-46.75,90.0,bottom
+R1,100,R_0603_1608Metric,133.8,-32.0,0.0,bottom
+R2,100,R_0603_1608Metric,137.3,-32.0,0.0,bottom
+R3,100,R_0603_1608Metric,157.2,-32.0,0.0,bottom
+R4,100,R_0603_1608Metric,160.8,-32.0,0.0,bottom
